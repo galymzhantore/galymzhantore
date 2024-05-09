@@ -5,4 +5,4 @@
   AI/ML enthusiast, focusing mainly on NLP
 </p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=galymzhantore17&theme=dark)](https://github.com/galymzhantore17/leetcode-stats)
+<!---[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=galymzhantore17&theme=dark)](https://github.com/galymzhantore17/leetcode-stats)>

@@ -1,6 +1,4 @@
-<h1 align="center" style="font-family:verdana;"> 𝘏𝘦𝘺, 𝘐'𝘮 𝘡𝘩𝘢𝘯𝘵𝘰𝘳𝘦!
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+<h1 align="center" style="font-family:verdana;"> 𝘏𝘦𝘺, 𝘐'𝘮 𝘡𝘩𝘢𝘯𝘵𝘰𝘳𝘦!</h1>
 <p style="font-family:verdana;size:16"> 
   AI/ML enthusiast, focusing mainly on NLP
 </p>
